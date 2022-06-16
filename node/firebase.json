@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "amalift-2022",
+  "private_key_id": "58c5435582cdd1a106aa490aaeda5cdc137c2312",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCotkdnsRJmws+r\nACaT/Sw3J8OyYyUkUgQkjFXrQNq95g0m1I7yZRImGG1v3UE1i4PIJhd0M013zn7s\nPjxt9pcbKGsuUygIPdQjyIFzT1dMV6GEQ7txQx3JfhDIFu3Px/mKRm4nDoslMbNF\n0BDexp9FaNgWl5+I77B46gv0n9xvExKxmTRE6MAT87FR/xf7arJJ7d8nbvdyRts0\nPJ1/ZAoTXk2+hUDE/1RgZH7wmZzgw1AlFbVNQsnTkeunC8RdqUswZduICyejNBgY\n3HKxuia6c2zr4eyvDGaEKL/CsCrB441YTgJK8qECRMFrbqv07Y/eGVi/4jbRK41r\nHAg/QIjDAgMBAAECggEACS9jU9HgHpgclkK71vLBpX8UuHGNZBzS/OpnAxfU0OHl\ndWe9IJVAF7LcwmpZUoD1+7+XJ0xju1IStunsgFAcie35Z9w/IbO8CPaxlYWMSyu6\nL2lAmzn8NSwX3czhxZ4th8mt1ZKFINFD4Vkikf5eTXkXyqMWnG3wPaUAYaESbzmT\n6bf7GOdgw4BIhuoEF5LB5Hma+WCUNil7844Ax56OoUjfUxzNJXbXPa6/YwGA1Kem\ni4o4ZELFutZq/RLeiWfDdtpEVUTZOJ2rZpxrrC/Fn0nRN1vofpwD2M1VcnR1ga4J\nMFO6fOi+jRXm0WzdJMRRL8AQEEX60OgrdxSxSXHNgQKBgQDf85XEKzxnjnA4XjpR\n1D+QA+3DazO9T8SGOzBDR7VK9npRbdtqpOClByAnO28DDcaZ1AOhXAlhgWvDPaYz\na8tX4RZES9R/FimXrpeECpRz4zUaKYoE/TUMnz4+/aGkEk4CyZ+dLOapMmk6AdZx\n0wmdboeyJ2VRsJ3T4Qn4TgqDzQKBgQDA2wHxwj+96VAZJz7RhM/DnrfTMsrl2TQe\nFQiY8//ODEfQ+te8tRJLJlN6BXYXqQ0g2aAlRV+42eMoKUNxEY722mEn6gxKmSyn\nI65h+0bcPE5b284oYALMWMcKivJnP/nIqnQ4TOHRgp+NxlEnpc21TQozxfk6u1Ek\nWv3yOnXOzwKBgQDZfHf8azSdKOHoi/G9GA+mb3pOpmQ3vCiRZxemrxPrudPuEm7c\ncURMX9Ak6X4UjCNLrm7cHEJr88DQeaVXGJ8AN/Jk3vN9e+tmh8JTE+c5Z/Rg9Og5\nkiEboeZUTAHXEYO7B00/2aQjunYgRDqajaUvw3B6XfHyVD/hzRDemAN0HQKBgGMV\nYmdafLNO1rdFoZG14aTIu/tHYlU7BfrapaMn4Wp0hsVIy2SJx09S7pqHicfYNAWH\nqi7b+LUZRQsSQDMsaT5MrpP6PLxq/DUXMPXoStzGIyAwyzeVNHrWtdSl1KrVhLjj\nUnjGj1K8AMuvc2yiVBDs9uvosAbLzIGYOlakUHijAoGBAKAOHusLRaqLhfAszh2f\ntUgAdVW9qo7xDsQm4JHRUZ733pYPr8uWOAjheW/HYvlV5WSTRuuOXMGmYE9ufAqM\nZ7pcACTisFq4rCCuViW160o3k9kMmErU+cbRvW8Xgs/ezO8kdC3IM9GRgbDHhtW4\nGazU5HNHaO7GpNBiyllvow2t\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-lb85k@amalift-2022.iam.gserviceaccount.com",
+  "client_id": "115324782069695379652",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-lb85k%40amalift-2022.iam.gserviceaccount.com"
+}
